@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me singhneha750027@gmail.com
 
-<!---
-devgeek2700/devgeek2700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-singh-69a83726a/)
+
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devgeek2700)
+
+
