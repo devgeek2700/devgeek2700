@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Study Buddy Platform**
 
-- 🌱 I’m currently learning **MERN Stack, UI/UX Design, python, Machine Learning**
+- 🌱 I’m currently learning **MERN Stack, UI/UX Design, Python, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
