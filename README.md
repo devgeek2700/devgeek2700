@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **react, nodejs, expressjs, mongodb, python, Data Science, Machine Learning**
+- 💬 Ask me about **React, Nodejs, Expressjs, Mongodb, Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **singhneha750027@gmail.com**
 
