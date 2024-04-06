@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Singh</h1>
-<h3 align="center">Exploring the fusion of technology and creativity excites me, leading me on a journey of continuous learning in Web Development, Machine Learning, Data Science and UI/UX Design.</h3>
+<h3 align="center">👋 Passionate about merging tech and creativity. Web Dev, ML, Data Science, UI/UX enthusiast. Let's innovate!</h3>
 
 - 🔭 I’m currently working on **Study Buddy Platform**
 
